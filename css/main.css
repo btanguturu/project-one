@@ -1,8 +1,13 @@
-h1 {
-    color: blue;
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Domine', serif;
 }
 
 .button {
     padding:5px;
     border:1px solid black;
+    width:90px;
 }
