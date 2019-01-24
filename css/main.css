@@ -6,8 +6,16 @@ h1, h2, h3, h4, h5, h6{
     font-family: 'Domine', serif;
 }
 
+.title {
+    font-family: 'Domine', serif;
+    font-size: 20px;
+    border-bottom: 2px solid #4B0082;
+    display:inline;
+}
+
 .button {
     padding:5px;
     border:1px solid black;
     width:90px;
 }
+
