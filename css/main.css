@@ -4,6 +4,7 @@ body{
 
 h1, h2, h3, h4, h5, h6{
     font-family: 'Domine', serif;
+    color: #9932CC;
 }
 
 section{
@@ -11,17 +12,18 @@ section{
     margin: 0 auto;
 }
 
-#header {
+#project{
     font-family: 'Domine', serif;
     font-size:36px;
     text-align: center;
     padding:5px;
+    color: #9932CC;
 }
 
 .title {
     font-family: 'Domine', serif;
     font-size:26px;
-    border-bottom: 2px solid #4B0082;
+    border-bottom: 2px solid ##9932CC;
 }
 
 .button {
