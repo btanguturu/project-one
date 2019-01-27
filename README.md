@@ -44,3 +44,6 @@ That section must include the following:
 * Create a live link to the forked repository: example: username.github.io/project-one 
 * Use CSS to style the page and it's elements. 
 * Select and use one serif and one sans-serif from [Google Fonts](https://fonts.google.com/)
+
+## Live link of the forked repo page
+https://btanguturu.github.io/project-one/
