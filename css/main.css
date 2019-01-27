@@ -8,7 +8,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 section{
-    padding:20px;
+    padding:30px;
     margin: 0 auto;
 }
 
@@ -16,14 +16,15 @@ section{
     font-family: 'Domine', serif;
     font-size:36px;
     text-align: center;
-    padding:5px;
-    color: #9932CC;
+    padding:10px;
+    color: #ffffff;
+    background-color:#9932CC;
 }
 
 .title {
     font-family: 'Domine', serif;
     font-size:26px;
-    border-bottom: 2px solid ##9932CC;
+    border-bottom: 2px solid #9932CC;
 }
 
 .button {
