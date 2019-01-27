@@ -4,7 +4,6 @@ body{
 
 h1, h2, h3, h4, h5, h6{
     font-family: 'Domine', serif;
-    color: #9932CC;
 }
 
 section{
@@ -24,6 +23,7 @@ section{
     font-family: 'Domine', serif;
     font-size:26px;
     border-bottom: 2px solid #000;
+    color: #9932CC;
 }
 
 .button {
@@ -31,4 +31,5 @@ section{
     border:1px solid #000;
     width:90px;
     margin:0 auto;
+    padding-top: 15px;
 }
