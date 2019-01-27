@@ -17,19 +17,18 @@ section{
     font-size:36px;
     text-align: center;
     padding:10px;
-    color: #ffffff;
-    background-color:#9932CC;
+    color: #9932CC;
 }
 
 .title {
     font-family: 'Domine', serif;
     font-size:26px;
-    border-bottom: 2px solid #9932CC;
+    border-bottom: 2px solid #000;
 }
 
 .button {
     padding:5px;
-    border:1px solid black;
+    border:1px solid #000;
     width:90px;
     margin:0 auto;
 }
