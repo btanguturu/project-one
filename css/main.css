@@ -32,7 +32,7 @@ section{
   padding:5px;
   float: left;
   border:1px solid #000;
-  margin: 0 5px;
+  margin: 5px;
 }
 
 a:link {
@@ -51,11 +51,16 @@ a:active {
   text-decoration: underline;
 }
 
+#heading1{
+  margin-top:80px;
+}
+
 .title {
     font-family: 'Domine', serif;
     font-size:26px;
-    border-bottom: 2px solid #000;
-    color: #9932CC;
+    background: #9932CC;
+    color:#fff;
+    text-align:center;
 }
 
 .button {
@@ -63,5 +68,4 @@ a:active {
     border:1px solid #000;
     width:90px;
     margin:0 auto;
-    padding-top: 15px;
 }
