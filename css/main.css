@@ -11,9 +11,11 @@ section{
     margin: 0 auto;
 }
 
-#links {
+#links a{
+    margin:0 auto;
     display:inline-block;
     color: #9932CC;
+    padding:10px;
 }
 
 .links a{
