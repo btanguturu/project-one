@@ -11,6 +11,16 @@ section{
     margin: 0 auto;
 }
 
+#links {
+    display:inline-block;
+    color: #9932CC;
+}
+
+.links a{
+    padding:5px;
+    
+}
+
 #studyGuide{
     font-family: 'Domine', serif;
     font-size:36px;
