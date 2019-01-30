@@ -1,71 +1,77 @@
 body{
-    font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6{
-    font-family: 'Domine', serif;
-}
-
-section{
-    padding:30px;
-    margin: 0 auto;
+  font-family: 'Domine', serif;
 }
 
 #studyGuide{
-    font-family: 'Domine', serif;
-    font-size:36px;
-    text-align: center;
-    padding:10px;
-    background: #9932CC;
-    color:#fff;
-}
-
-#links{
+  font-family: 'Domine', serif;
+  font-size:36px;
+  text-align: center;
   padding:10px;
-  margin: 10px auto;
-  max-width:1200px;
+  background: #9932CC;
+  color:#fff;
 }
 
-.links a{
-  color: #9932CC;
-  display: inline-block;
-  padding:5px;
-  float: left;
-  border:1px solid #000;
-  margin: 5px;
-}
-
-a:link {
-  text-decoration: none;
-}
-
-a:visited {
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-a:active {
-  text-decoration: underline;
+section{
+  padding:30px;
+  margin: 0 auto;
 }
 
 #heading1{
-  margin-top:80px;
+margin-top:10%;
 }
 
 .title {
-    font-family: 'Domine', serif;
-    font-size:26px;
-    background: #9932CC;
-    color:#fff;
-    text-align:center;
+  font-family: 'Domine', serif;
+  font-size:26px;
+  border-bottom:3px solid #9932CC;
+  color:##9932CC;
+  text-align:center;
+text-transform: uppercase;
+}
+
+#links{
+padding:10px;
+margin: 10px auto;
+max-width:80%;
+}
+
+.links a{
+color: #9932CC;
+padding:5px;
+float: left;
+border:1px solid #000;
+margin: 5px;
+}
+
+a:link {
+text-decoration: none;
+color: #9932CC;
+}
+
+a:visited {
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+a:active {
+text-decoration: underline;
 }
 
 .button {
-    padding:5px;
-    border:1px solid #000;
-    width:90px;
-    margin:0 auto;
+  padding:5px;
+  background: #9932CC;
+  width:90px;
+  margin:0 auto;
+  text-align: center;
+}
+
+.button a{
+color:#fff;
 }
